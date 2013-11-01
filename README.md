@@ -1,12 +1,16 @@
-# BrickPi
+# BrickPi for Ruby
 
-TODO: Write a gem description
+[![Build Status](https://travis-ci.org/Floppy/brickpi-ruby.png?branch=master)](https://travis-ci.org/Floppy/brickpi-ruby)
+[![Dependency Status](https://gemnasium.com/Floppy/brickpi-ruby.png)](https://gemnasium.com/Floppy/brickpi-ruby)
+[![Code Climate](https://codeclimate.com/github/Floppy/brickpi-ruby.png)](https://codeclimate.com/github/Floppy/brickpi-ruby)
+
+A Ruby driver for Dexter Industries' BrickPi.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'brick_pi'
+    gem 'brickpi'
 
 And then execute:
 
@@ -14,11 +18,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install brick_pi
+    $ gem install brickpi
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'brickpi'
+    
+More to come when I've written anything.
 
 ## Contributing
 
