@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'brick_pi/version'
+require 'brickpi/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "brick_pi"
+  spec.name          = "brickpi"
   spec.version       = BrickPi::VERSION
   spec.authors       = ["James Smith"]
   spec.email         = ["james@floppy.org.uk"]

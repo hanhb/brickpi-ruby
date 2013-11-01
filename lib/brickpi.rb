@@ -1,4 +1,4 @@
-require "brick_pi/version"
+require "brickpi/version"
 
 module BrickPi
   # Your code goes here...
