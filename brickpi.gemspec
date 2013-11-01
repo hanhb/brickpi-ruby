@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = BrickPi::VERSION
   spec.authors       = ["James Smith"]
   spec.email         = ["james@floppy.org.uk"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Ruby driver for the BrickPi from Dexter Industries}
+  spec.summary       = %q{Ruby driver for the BrickPi}
+  spec.homepage      = "https://github.com/Floppy/brickpi-ruby"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
