@@ -1,0 +1,8 @@
+deploy:
+  provider: rubygems
+  api_key:
+    secure: l4HRsHEMg7ARDk3vC2U02NypiCwuvNzbO8c1tdfpq/uCNzmSdVA0Lep7nKek33IkttWpFjn+MW38RBHrzGGMNgqcR/QR3HHtHAnliyQmR2+281YImqR0AcdsF+48TnW/xEtI2IOf8tWzjMNXqSLacfs43/tuVso5rvK23sHt02w=
+  gem: brick_pi
+  on:
+    tags: true
+    repo: Floppy/brickpi-ruby
